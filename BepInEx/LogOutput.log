@@ -1,0 +1,548 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (14.07.2022 22:02:39)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 22 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.11.5]
+[Info   :   BepInEx] Loading [Spawn That! 1.0.5]
+[Info   :   BepInEx] Loading [Custom Raids 1.6.2]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Jotunn 2.7.2]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Jötunn v2.7.2 loaded successfully
+[Info   :   BepInEx] Loading [ValheimRAFT 1.3.0]
+[Info   :   BepInEx] Loading [RRRCore 0.2.12]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [EnhancedBosses 1.2.0]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [RRRBetterRaids 0.2.2]
+[Info   :   BepInEx] Loading [JotunnLib 0.1.9]
+[Info   : Unity Log] Initialized PrefabManager
+[Info   : Unity Log] Initialized PieceTableManager
+[Info   : Unity Log] JotunnLib v0.1.9 loaded successfully
+[Info   :   BepInEx] Loading [TrialsofOdin 1.4.2]
+[Message:TrialsofOdin] Trials of Odin started:
+[Info   :   BepInEx] Loading [Digitalroot ForsakenJVL 1.2.2]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.2]
+[Info   :   BepInEx] Loading [OdinShip 0.1.0]
+[Info   : Unity Log] 07/17/2022 12:08:37: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:37: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:37: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:37: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [BetterUI 2.2.1]
+[Info   :   BepInEx] Loading [MonsterLabZ 2.4.4]
+[Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.6]
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Loading key rollForwards
+[Info   : Unity Log]  Loading key rollBackwards
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log]  Loading key disableConsole
+[Info   : Unity Log]  Loading key bigPortalNames
+[Info   : Unity Log]  Loading key disableFog
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Loading key monsterMaxChargeVelocityMultiplier
+[Info   : Unity Log]  Loading key monsterMaxChargeAccuracyMultiplier
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
+[Info   :   BepInEx] Loading [OdinHorse 0.4.0]
+[Info   :   BepInEx] Loading [ChaosArmor 9.0.13]
+[Warning: Unity Log] Localization file was not loaded: Could not find a part of the path "C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins\AeehyehssReeper-ChaosArmor\Localization.yml".
+[Info   :   BepInEx] Loading [Trash Items Mod 1.2.4]
+[Info   :Trash Items Mod] TrashItems Loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 07/17/2022 12:08:50: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:54: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Using environment steamid 892970
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Using steam APPID:892970
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Steam initialized, persona:mKkL
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Using default prefs
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Valheim version:0.209.10@0.9.9.8
+
+[Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
+[Info   : Unity Log] 07/17/2022 12:08:55: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Loaded localization CSV:localization_extra language:English
+
+[Warning: Unity Log] 07/17/2022 12:08:55: Missing audio clip in music respawn
+
+[Info   : Unity Log] 07/17/2022 12:08:55: Checking for installed DLCs
+
+[Info   : Unity Log] 07/17/2022 12:08:55: DLC:beta installed:False
+
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 07/17/2022 12:08:56: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/17/2022 12:08:56: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Warning:RRRMonsters] True
+[Info   :Jotunn.Managers.ItemManager] Adding 13 custom items to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   : Unity Log] 07/17/2022 12:08:57: UI Group status changed Menu = True
+
+[Info   : Unity Log] 07/17/2022 12:08:59: UI Group status changed Menu = True
+
+[Info   : Unity Log] 07/17/2022 12:09:03: FOund selected Start game
+
+[Info   : Unity Log] 07/17/2022 12:09:03: show character selection
+
+[Info   : Unity Log] 07/17/2022 12:09:04: OnCharacterStart
+
+[Message:Spawn That!] Loading local spawner configurations.
+[Message:Spawn That!] Config loading took: 00:00:00.0063703
+[Message:Spawn That!] Loading simple configurations
+[Message:Spawn That!] Loading world spawner configurations.
+[Message:Spawn That!] Config loading took: 00:00:00.1777468
+[Info   : Unity Log] 07/17/2022 12:09:13: Steam initialized, persona:mKkL
+
+[Info   : Unity Log] 07/17/2022 12:09:13: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
+[Info   : Unity Log] 07/17/2022 12:09:13: Loading player profile crewmat the sus
+
+[Info   : Unity Log] 07/17/2022 12:09:13: isModded: True
+
+[Info   : Unity Log] 07/17/2022 12:09:13: Zonesystem Awake 364
+
+[Info   : Unity Log] 07/17/2022 12:09:13: DungeonDB Awake 364
+
+[Info   : Unity Log] 07/17/2022 12:09:13: Steam initialized, persona:mKkL
+
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShip ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShip PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShip ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'MonsterLabZ CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 16 custom prefabs to the ZNetScene
+[Info   : Unity Log] ---- Registering custom prefabs ----
+[Info   : Unity Log] All prefabs loaded
+[Info   : Unity Log] ---- Registering custom zone data ----
+[Info   :Jotunn.Managers.ItemManager] Adding 13 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 13 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom status effects to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   : Unity Log] ---- Registering custom objects ----
+[Info   : Unity Log] ---- Loading custom objects ----
+[Info   : Unity Log] ---- Loading piece tables ----
+[Info   : Unity Log] Loaded existing piece table: _HoePieceTable
+[Info   : Unity Log] Loaded existing piece table: _CultivatorPieceTable
+[Info   : Unity Log] Loaded existing piece table: _HammerPieceTable
+[Info   : Unity Log] ---- Loading pieces ----
+[Info   :Jotunn.Managers.PieceManager] Adding 6 custom pieces to the PieceTables
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\EnhancedBosses\rrrmonsters.custom.EikthyrClone.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
+[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
+[Error  :   RRRCore] --------------------------------------------------------------
+[Error  :   RRRCore] Invalid custom prefab JSON. First 2 lines of broken file:
+[Error  :   RRRCore]    "sOriginalPrefabName":"Wolf",
+[Error  :   RRRCore]    "sNewPrefabName":"StormWolf",
+[Error  :   RRRCore] --------------------------------------------------------------
+[Error  :   RRRCore] If given, number points to exact character index of error:
+[Error  :   RRRCore]     Requested value 'Wolf' was not found.
+[Error  :   RRRCore] --------------------------------------------------------------
+[Error  : Unity Log] MissingMethodException: bool RRRCore.Util.IsEmpty<!0>(System.Collections.Generic.List`1<!!0>)
+Stack trace:
+RRRBetterRaids.Events.FirstFixes (RandEventSystem res) (at <946e0d53e0f04241b2a11f21452804be>:0)
+RRRBetterRaids.Configs.Load () (at <946e0d53e0f04241b2a11f21452804be>:0)
+RRRCore.RRRLateLoadPrefabs.Load () (at <d29df19a500e4a1a8d8a604f4910d4f1>:0)
+RRRCore.Plugin.LateLoadServer () (at <d29df19a500e4a1a8d8a604f4910d4f1>:0)
+(wrapper dynamic-method) ObjectDB.DMD<ObjectDB::Awake>(ObjectDB)
+
+[Info   : Unity Log] 07/17/2022 12:09:17: Audioman already exist, destroying self
+
+[Info   : Unity Log] 07/17/2022 12:09:17: Checking for installed DLCs
+
+[Info   : Unity Log] 07/17/2022 12:09:17: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   : Unity Log] 07/17/2022 12:09:20: Zonesystem Start 364
+
+[Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
+[Info   : Unity Log] 07/17/2022 12:09:20: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 07/17/2022 12:09:20: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 07/17/2022 12:09:20: DungeonDB Start 364
+
+[Warning:Custom Raids] Unable to find spawn RRRM_StormWolf
+[Warning:Custom Raids] Unable to find spawn RRRM_StormWolf
+[Info   : Unity Log] 07/17/2022 12:09:21: Load world: Dedicated (Dedicated)
+
+[Info   : Unity Log] 07/17/2022 12:09:21: Loading 63394 zdos , my id 3473200981 data version:28
+
+[Info   : Unity Log] 07/17/2022 12:09:21: Loaded 3247 dead zdos
+
+[Info   : Unity Log] 07/17/2022 12:09:21: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 07/17/2022 12:09:21: Loaded 7550 locations
+
+[Info   : Unity Log] 07/17/2022 12:09:21: Starting respawn
+
+[Info   : Unity Log] 07/17/2022 12:09:30: Unpacking compressed mapdata 8267
+
+[Info   : Unity Log] 07/17/2022 12:09:30: tip:$loadscreen_tip20
+
+[Info   : Unity Log] 07/17/2022 12:09:38: Spawned after 8,019994
+
+[Info   : Unity Log] 07/17/2022 12:09:38: -------------------- SENDING VPLUSMAPSYNC DATA
+
+[Info   : Unity Log] 07/17/2022 12:09:38: Sent my map data to the server (24 map ranges, 1 chunks)
+
+[Info   : Unity Log] 07/17/2022 12:09:38: Queue unlock msg:$msg_newrecipe:$item_armor_t1_pchaosbody
+
+[Info   : Unity Log] 07/17/2022 12:09:38: Queue unlock msg:$msg_newrecipe:$item_helmet_t1pchaosplate
+
+[Info   : Unity Log] 07/17/2022 12:09:38: Queue unlock msg:$msg_newrecipe:$item_legs_t1pchaoslegs
+
+[Info   :TrialsofOdin] Post Game-Start Keys
+[Info   : Unity Log] 07/17/2022 12:09:39: Minimap: Adding unique location (3.0, 40.0, 2.7)
+
+[Info   : Unity Log] 07/17/2022 12:11:32: Setting selected recipe 0
+
+[Info   : Unity Log] 07/17/2022 12:11:32: UI Group status changed root = True
+
+[Info   : Unity Log] 07/17/2022 12:11:32: UI Group status changed Player = True
+
+[Info   : Unity Log] 07/17/2022 12:11:55: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 07/17/2022 12:11:56: Game - OnApplicationQuit
+
+[Info   : Unity Log] 07/17/2022 12:11:56: Shuting down
+
+[Info   : Unity Log] 07/17/2022 12:11:56: Uncompressed size 8388617
+
+[Info   : Unity Log] 07/17/2022 12:11:56: Compressed size 8267
+
+[Info   : Unity Log] 07/17/2022 12:11:56: Steam Cloud Save: 12603637 bytes. /characters/crewmat the sus.fch.new
+
+[Info   : Unity Log] 07/17/2022 12:11:57: Steam Cloud Move: 12603529 bytes. /characters/crewmat the sus.fch -> /characters/crewmat the sus.fch.old
+
+[Info   : Unity Log] 07/17/2022 12:11:57: Steam Cloud Move: 12603637 bytes. /characters/crewmat the sus.fch.new -> /characters/crewmat the sus.fch
+
+[Info   : Unity Log] 07/17/2022 12:11:57: ZNet Shutdown
+
+[Info   : Unity Log] 07/17/2022 12:11:57: clone 50
+
+[Info   : Unity Log] 07/17/2022 12:11:57: Sending disconnect msg
+
+[Info   : Unity Log] 07/17/2022 12:11:59: Steam manager on destroy
+
+[Info   : Unity Log] 07/17/2022 12:12:00: FOund selected Button_yes
+
+[Info   : Unity Log] 07/17/2022 12:12:00: ZNet OnDestroy
+
+[Info   : Unity Log] 07/17/2022 12:12:00: Net scene destroyed
+
+[Warning: Unity Log] 07/17/2022 12:12:00: Local player destroyed
+
